@@ -1,8 +1,8 @@
 # Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Getting to know "Succinctly" book series](https://dev.to/dev0928/getting-to-know-succinctly-book-series-54ha)
-- [What are different types of Selectors in CSS?](https://dev.to/dev0928/what-are-different-types-of-selectors-in-css-1kc)
-- [How do you use DEV?](https://dev.to/dev0928/how-do-you-use-dev-1bgc)
-- [Get started with front-end web development](https://dev.to/dev0928/get-started-with-front-end-web-development-1l5j)
-- [Build Restful API with Swagger documentation](https://dev.to/dev0928/build-restful-api-with-swagger-documentation-fe7)
+- [Architectural Patterns](https://dev.to/dev0928/architectural-patterns-5f31)
+- [What are type hints in Python?](https://dev.to/dev0928/what-are-type-hints-in-python-3c2k)
+- [Intro to web app using AWS Serverless Architecture](https://dev.to/dev0928/intro-to-web-app-using-aws-serverless-architecture-f91)
+- [What are Data Classes in Python?](https://dev.to/dev0928/what-are-data-classes-in-python-1lo0)
+- [Data Modeling Tool](https://dev.to/dev0928/data-modeling-tool-3cap)
 <!-- BLOG-POST-LIST:END -->
